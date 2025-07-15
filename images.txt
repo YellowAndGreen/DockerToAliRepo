@@ -17,4 +17,5 @@
 #docker.n8n.io/n8nio/n8n:latest
 #frdel/agent-zero-run
 #okapi0129/virtualwife-chatvrm:latest
-ghcr.io/snailyp/gemini-balance:latest
+#ghcr.io/snailyp/gemini-balance:latest
+minio/minio
