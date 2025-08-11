@@ -18,4 +18,5 @@
 #frdel/agent-zero-run
 #okapi0129/virtualwife-chatvrm:latest
 #ghcr.io/snailyp/gemini-balance:latest
-minio/minio
+#minio/minio
+ubuntu:24.04
